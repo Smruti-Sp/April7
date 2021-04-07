@@ -1,0 +1,7 @@
+#locator values of login
+browser=chrome
+Url=http://projects.qedgetech.com/webapp
+Objresetbtn=//button[@id='btnreset']
+Objuser=(//input[@type='text'])[1]
+Objpass=//input[@type='password']
+Objuserloginbtn=(//button[@class='btn btn-primary ewButton'])[1]
